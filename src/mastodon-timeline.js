@@ -20,16 +20,16 @@ window.addEventListener("load", () => {
     default_theme: "auto",
 
     // Your Mastodon instance
-    instance_url: "https://mastodon.online",
+    instance_url: "https://mastodon.sandwich.net",
 
     // Choose type of toots to show in the timeline: 'local', 'profile', 'hashtag'. Default: local
-    timeline_type: "local",
+    timeline_type: "profile",
 
     // Your user ID on Mastodon instance. Leave empty if you didn't choose 'profile' as type of timeline
-    user_id: "",
+    user_id: "109288954128553540",
 
     // Your user name on Mastodon instance. Leave empty if you didn't choose 'profile' as type of timeline
-    profile_name: "",
+    profile_name: "MattPayneOrg",
 
     // The name of the hashtag. Leave empty if you didn't choose 'hashtag' as type of timeline
     hashtag_name: "",
